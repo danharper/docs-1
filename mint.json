@@ -208,9 +208,7 @@
     },
     {
       "group": "Help",
-      "pages": [
-        "vector/help/faq"
-      ]
+      "pages": ["vector/help/faq"]
     },
     {
       "group": "Features",
@@ -474,10 +472,7 @@
         "qstash/overall/apiexamples",
         {
           "group": "SDKs",
-          "pages": [
-            "qstash/sdks/qstash-ts-sdk",
-            "qstash/sdks/qstash-py-sdk"
-          ]
+          "pages": ["qstash/sdks/qstash-ts-sdk", "qstash/sdks/qstash-py-sdk"]
         },
         "qstash/overall/compare"
       ]
@@ -882,6 +877,7 @@
                 "oss/sdks/ts/query/api-reference"
               ]
             },
+            "oss/sdks/ts/vector/overview",
             {
               "group": "@upstash/edge-flags",
               "pages": [
